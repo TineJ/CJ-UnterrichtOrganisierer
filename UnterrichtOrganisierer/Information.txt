@@ -1,0 +1,14 @@
+Was wird benötigt?
+
+1. Lehrer (Schüler, Studenten, Lehrkräfte)
+	a. Zeiten in denen es möglich ist zu Unterrichten
+	b. räumlicher Bereich, in dem unterrrichtet werden kann
+	c. Fächer
+		I. Schuljahr
+2. Schüler
+	a. Fächer für die Nachhilfe benötigt wird.
+	b. Schuljahr
+	c. Zeiten zu denen man unterrichtet werden kann
+3. Räumlichkeiten
+	a. Punkt in dem die Räumlichkeit liegt.
+	b. Zeiten zu denen die Räumlichkeit zur Verfügung steht.
